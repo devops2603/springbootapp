@@ -1,4 +1,5 @@
-#Updated the file for testing
+#Updated the file for first time
+#Updated the file for second time
 FROM lolhens/baseimage-openjre
 ADD target/springbootApp.jar springbootApp.jar
 EXPOSE 80
